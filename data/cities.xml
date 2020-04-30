@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<Cities>
+	<Country id="0">
+		<name>Abkhazia</name>
+		<Capital id="0">
+			<name>Sukhumi</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>43.01</latitude>
+				<longitude>41.06</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="1">
+		<name>Afghanistan</name>
+		<Capital id="0">
+			<name>Kabul</name>
+			<timeZone>4</timeZone>
+			<Coordinates>
+				<latitude>34.50</latitude>
+				<longitude>69.17</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="2">
+		<name>Albania</name>
+		<Capital id="0">
+			<name>Tirana</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>41.32</latitude>
+				<longitude>19.79</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="3">
+		<name>Algeria</name>
+		<Capital id="0">
+			<name>Algiers</name>
+			<timeZone>1</timeZone>
+			<Coordinates>
+				<latitude>36.72</latitude>
+				<longitude>3.06</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="4">
+		<name>Andorra</name>
+		<Capital id="0">
+			<name>Andorra</name>
+			<timeZone>0</timeZone>
+			<Coordinates>
+				<latitude>42.51</latitude>
+				<longitude>1.52</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="5">
+		<name>Angola</name>
+		<Capital id="0">
+			<name>Luanda</name>
+			<timeZone>1</timeZone>
+			<Coordinates>
+				<latitude>-8.84</latitude>
+				<longitude>13.23</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="6">
+		<name>Antigua and Barbuda</name>
+		<Capital id="0">
+			<name>St. John's</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>17.12</latitude>
+				<longitude>-61.84</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="7">
+		<name>Argentina</name>
+		<Capital id="0">
+			<name>Buenos Aires</name>
+			<timeZone>-3</timeZone>
+			<Coordinates>
+				<latitude>-34.61</latitude>
+				<longitude>-58.38</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="8">
+		<name>Armenia</name>
+		<Capital id="0">
+			<name>Yerevan</name>
+			<timeZone>4</timeZone>
+			<Coordinates>
+				<latitude>40.18</latitude>
+				<longitude>44.51</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="8">
+		<name>Aruba</name>
+		<Capital id="0">
+			<name>Oranjestad</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>12.50</latitude>
+				<longitude>-70.03</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="9">
+		<name>Australia</name>
+		<Capital id="0">
+			<name>Canberra</name>
+			<timeZone>11</timeZone>
+			<Coordinates>
+				<latitude>-35.28</latitude>
+				<longitude>149.13</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="10">
+		<name>Austria</name>
+		<Capital id="0">
+			<name>Vienna</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>48.21</latitude>
+				<longitude>16.37</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="11">
+		<name>Azerbaijan</name>
+		<Capital id="0">
+			<name>Baku</name>
+			<timeZone>4</timeZone>
+			<Coordinates>
+				<latitude>40.38</latitude>
+				<longitude>49.89</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="12">
+		<name>Bahamas</name>
+		<Capital id="0">
+			<name>Nassau</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>25.06</latitude>
+				<longitude>-77.34</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="13">
+		<name>Bahrain</name>
+		<Capital id="0">
+			<name>Manama</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>26.23</latitude>
+				<longitude>50.59</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="14">
+		<name>Bangladesh</name>
+		<Capital id="0">
+			<name>Dhaka</name>
+			<timeZone>6</timeZone>
+			<Coordinates>
+				<latitude>23.71</latitude>
+				<longitude>90.41</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="15">
+		<name>Barbados</name>
+		<Capital id="0">
+			<name>Bridgetown</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>13.11</latitude>
+				<longitude>-59.62</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="16">
+		<name>Balarus</name>
+		<Capital id="0">
+			<name>Minsk</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>53.90</latitude>
+				<longitude>27.57</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="17">
+		<name>Belgium</name>
+		<Capital id="0">
+			<name>Brussels</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>50.85</latitude>
+				<longitude>4.35</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="18">
+		<name>Belize</name>
+		<Capital id="0">
+			<name>Belmopan</name>
+			<timeZone>-6</timeZone>
+			<Coordinates>
+				<latitude>17.25</latitude>
+				<longitude>-88.77</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="19">
+		<name>Benin</name>
+		<Capital id="0">
+			<name>Porto-Novo</name>
+			<timeZone>0</timeZone>
+			<Coordinates>
+				<latitude>6.50</latitude>
+				<longitude>2.60</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="20">
+		<name>Bhutan</name>
+		<Capital id="0">
+			<name>Thimphu</name>
+			<timeZone>6</timeZone>
+			<Coordinates>
+				<latitude>27.47</latitude>
+				<longitude>89.64</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="21">
+		<name>Bolivia</name>
+		<Capital id="0">
+			<name>Sucre</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>-19.03</latitude>
+				<longitude>-65.26</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="22">
+		<name>Bosnia and Herzegovina</name>
+		<Capital id="0">
+			<name>Sarajevo</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>43.85</latitude>
+				<longitude>18.36</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="23">
+		<name>Botswana</name>
+		<Capital id="0">
+			<name>Gaborone</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>-24.65</latitude>
+				<longitude>25.91</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="24">
+		<name>Brazil</name>
+		<Capital id="0">
+			<name>Brasilia</name>
+			<timeZone>-3</timeZone>
+			<Coordinates>
+				<latitude>-15.78</latitude>
+				<longitude>-47.93</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="25">
+		<name>Brunei</name>
+		<Capital id="0">
+			<name>Bandar Seri Begawan</name>
+			<timeZone>8</timeZone>
+			<Coordinates>
+				<latitude>4.89</latitude>
+				<longitude>114.94</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="26">
+		<name>Bulgaria</name>
+		<Capital id="0">
+			<name>Sofia</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>42.70</latitude>
+				<longitude>23.32</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="27">
+		<name>Burkina Faso</name>
+		<Capital id="0">
+			<name>Ouagadougou</name>
+			<timeZone>0</timeZone>
+			<Coordinates>
+				<latitude>12.37</latitude>
+				<longitude>-1.53</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="28">
+		<name>Burundi</name>
+		<Capital id="0">
+			<name>Bujumbura</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>-3.38</latitude>
+				<longitude>29.36</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="29">
+		<name>Cambodia</name>
+		<Capital id="0">
+			<name>Phnom Penh</name>
+			<timeZone>7</timeZone>
+			<Coordinates>
+				<latitude>11.56</latitude>
+				<longitude>104.92</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="30">
+		<name>Cameroon</name>
+		<Capital id="0">
+			<name>Yaounde</name>
+			<timeZone>1</timeZone>
+			<Coordinates>
+				<latitude>3.87</latitude>
+				<longitude>11.52</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="31">
+		<name>Canada</name>
+		<Capital id="0">
+			<name>Ottawa</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>45.41</latitude>
+				<longitude>-75.70</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="32">
+		<name>Cape Verde</name>
+		<Capital id="0">
+			<name>Praia</name>
+			<timeZone>-1</timeZone>
+			<Coordinates>
+				<latitude>14.93</latitude>
+				<longitude>-23.51</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="33">
+		<name>CAR</name>
+		<Capital id="0">
+			<name>Bangui</name>
+			<timeZone>1</timeZone>
+			<Coordinates>
+				<latitude>4.36</latitude>
+				<longitude>18.56</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="34">
+		<name>Chad</name>
+		<Capital id="0">
+			<name>N'Djamena</name>
+			<timeZone>1</timeZone>
+			<Coordinates>
+				<latitude>12.11</latitude>
+				<longitude>15.04</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="35">
+		<name>Chile</name>
+		<Capital id="0">
+			<name>Santiago</name>
+			<timeZone>-3</timeZone>
+			<Coordinates>
+				<latitude>-33.46</latitude>
+				<longitude>-70.65</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="36">
+		<name>China</name>
+		<Capital id="0">
+			<name>Beijing</name>
+			<timeZone>8</timeZone>
+			<Coordinates>
+				<latitude>39.91</latitude>
+				<longitude>116.40</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="37">
+		<name>Colombia</name>
+		<Capital id="0">
+			<name>Bogota</name>
+			<timeZone>-5</timeZone>
+			<Coordinates>
+				<latitude>4.61</latitude>
+				<longitude>-74.08</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="38">
+		<name>Comoros</name>
+		<Capital id="0">
+			<name>Moroni</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>-11.70</latitude>
+				<longitude>43.26</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="39">
+		<name>Costa Rica</name>
+		<Capital id="0">
+			<name>San Jose</name>
+			<timeZone>-6</timeZone>
+			<Coordinates>
+				<latitude>9.93</latitude>
+				<longitude>-84.08</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="40">
+		<name>Croatia</name>
+		<Capital id="0">
+			<name>Zagreb</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>45.81</latitude>
+				<longitude>15.98</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="41">
+		<name>Cuba</name>
+		<Capital id="0">
+			<name>Havana</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>23.13</latitude>
+				<longitude>-82.38</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="42">
+		<name>Cyprus</name>
+		<Capital id="0">
+			<name>Nicosia</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>35.18</latitude>
+				<longitude>33.36</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="43">
+		<name>Czech Republic</name>
+		<Capital id="0">
+			<name>Prague</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>50.09</latitude>
+				<longitude>14.42</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="44">
+		<name>DR of the Congo</name>
+		<Capital id="0">
+			<name>Kinshasa</name>
+			<timeZone>1</timeZone>
+			<Coordinates>
+				<latitude>-4.33</latitude>
+				<longitude>15.31</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="45">
+		<name>Denmark</name>
+		<Capital id="0">
+			<name>Copenhagen</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>55.68</latitude>
+				<longitude>12.57</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="46">
+		<name>Djibouti</name>
+		<Capital id="0">
+			<name>Djibouti</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>11.59</latitude>
+				<longitude>43.15</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="47">
+		<name>Dominica</name>
+		<Capital id="0">
+			<name>Roseau</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>15.30</latitude>
+				<longitude>-61.39</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="48">
+		<name>Dominican Republic</name>
+		<Capital id="0">
+			<name>Santo Domingo</name>
+			<timeZone>-3</timeZone>
+			<Coordinates>
+				<latitude>18.47</latitude>
+				<longitude>-69.89</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="49">
+		<name>East Timor</name>
+		<Capital id="0">
+			<name>Dili</name>
+			<timeZone>9</timeZone>
+			<Coordinates>
+				<latitude>-8.56</latitude>
+				<longitude>125.57</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="50">
+		<name>Ecuador</name>
+		<Capital id="0">
+			<name>Quito</name>
+			<timeZone>-5</timeZone>
+			<Coordinates>
+				<latitude>-0.23</latitude>
+				<longitude>-78.52</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="51">
+		<name>Egypt</name>
+		<Capital id="0">
+			<name>Cairo</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>30.06</latitude>
+				<longitude>31.25</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="52">
+		<name>El Salvador</name>
+		<Capital id="0">
+			<name>San Salvador</name>
+			<timeZone>-6</timeZone>
+			<Coordinates>
+				<latitude>13.69</latitude>
+				<longitude>-89.19</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="53">
+		<name>Equatorial Guinea</name>
+		<Capital id="0">
+			<name>Malabo</name>
+			<timeZone>1</timeZone>
+			<Coordinates>
+				<latitude>3.76</latitude>
+				<longitude>8.78</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="54">
+		<name>Eritrea</name>
+		<Capital id="0">
+			<name>Asmara</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>15.34</latitude>
+				<longitude>38.93</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="55">
+		<name>Estonia</name>
+		<Capital id="0">
+			<name>Tallin</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>59.44</latitude>
+				<longitude>24.75</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="56">
+		<name>Eswatini</name>
+		<Capital id="0">
+			<name>Mbabane</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>-26.32</latitude>
+				<longitude>31.13</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="57">
+		<name>Ethiopia</name>
+		<Capital id="0">
+			<name>Addis Ababa</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>9.02</latitude>
+				<longitude>38.75</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="58">
+		<name>Falkland Island</name>
+		<Capital id="0">
+			<name>Stanley</name>
+			<timeZone>-3</timeZone>
+			<Coordinates>
+				<latitude>-51.69</latitude>
+				<longitude>-57.85</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="59">
+		<name>Fiji</name>
+		<Capital id="0">
+			<name>Suva</name>
+			<timeZone>12</timeZone>
+			<Coordinates>
+				<latitude>-18.14</latitude>
+				<longitude>178.44</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="60">
+		<name>Finland</name>
+		<Capital id="0">
+			<name>Helsinki</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>60.17</latitude>
+				<longitude>24.94</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="61">
+		<name>France</name>
+		<Capital id="0">
+			<name>Paris</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>48.85</latitude>
+				<longitude>2.35</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="62">
+		<name>French Polynesia</name>
+		<Capital id="0">
+			<name>Papeete</name>
+			<timeZone>-10</timeZone>
+			<Coordinates>
+				<latitude>-17.54</latitude>
+				<longitude>-149.57</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="63">
+		<name>Gabon</name>
+		<Capital id="0">
+			<name>Libreville</name>
+			<timeZone>1</timeZone>
+			<Coordinates>
+				<latitude>0.39</latitude>
+				<longitude>9.45</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="64">
+		<name>Georgia</name>
+		<Capital id="0">
+			<name>Tbilisi</name>
+			<timeZone>4</timeZone>
+			<Coordinates>
+				<latitude>41.69</latitude>
+				<longitude>44.83</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="65">
+		<name>Germany</name>
+		<Capital id="0">
+			<name>Berlin</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>52.52</latitude>
+				<longitude>13.41</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="66">
+		<name>Ghana</name>
+		<Capital id="0">
+			<name>Accra</name>
+			<timeZone>0</timeZone>
+			<Coordinates>
+				<latitude>5.56</latitude>
+				<longitude>-0.2</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="67">
+		<name>Greece</name>
+		<Capital id="0">
+			<name>Athens</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>37.98</latitude>
+				<longitude>23.73</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="68">
+		<name>Greenland</name>
+		<Capital id="0">
+			<name>Nuuk</name>
+			<timeZone>-2</timeZone>
+			<Coordinates>
+				<latitude>64.18</latitude>
+				<longitude>-51.69</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="69">
+		<name>Grenada</name>
+		<Capital id="0">
+			<name>St. George's</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>12.05</latitude>
+				<longitude>-61.75</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="70">
+		<name>Guatemala</name>
+		<Capital id="0">
+			<name>Guatemala</name>
+			<timeZone>-6</timeZone>
+			<Coordinates>
+				<latitude>14.64</latitude>
+				<longitude>-90.51</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="71">
+		<name>Guinea</name>
+		<Capital id="0">
+			<name>Conakry</name>
+			<timeZone>0</timeZone>
+			<Coordinates>
+				<latitude>9.54</latitude>
+				<longitude>-13.68</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="72">
+		<name>Guinea-Bissau</name>
+		<Capital id="0">
+			<name>Bissau</name>
+			<timeZone>0</timeZone>
+			<Coordinates>
+				<latitude>11.86</latitude>
+				<longitude>-15.6</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="73">
+		<name>Guyana</name>
+		<Capital id="0">
+			<name>Georgetown</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>6.8</latitude>
+				<longitude>-58.16</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="74">
+		<name>Haiti</name>
+		<Capital id="0">
+			<name>Port-au-Prince</name>
+			<timeZone>-4</timeZone>
+			<Coordinates>
+				<latitude>18.54</latitude>
+				<longitude>-72.34</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="75">
+		<name>Honduras</name>
+		<Capital id="0">
+			<name>Tegucigalpa</name>
+			<timeZone>-6</timeZone>
+			<Coordinates>
+				<latitude>14.08</latitude>
+				<longitude>-87.21</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="76">
+		<name>Hungary</name>
+		<Capital id="0">
+			<name>Budapest</name>
+			<timeZone>2</timeZone>
+			<Coordinates>
+				<latitude>47.50</latitude>
+				<longitude>19.04</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="77">
+		<name>Iceland</name>
+		<Capital id="0">
+			<name>Reykjavik</name>
+			<timeZone>0</timeZone>
+			<Coordinates>
+				<latitude>64.14</latitude>
+				<longitude>-21.9</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="78">
+		<name>India</name>
+		<Capital id="0">
+			<name>New Delhi</name>
+			<timeZone>5</timeZone>
+			<Coordinates>
+				<latitude>28.64</latitude>
+				<longitude>77.22</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="79">
+		<name>Indonesia</name>
+		<Capital id="0">
+			<name>Jakarta</name>
+			<timeZone>7</timeZone>
+			<Coordinates>
+				<latitude>-6.21</latitude>
+				<longitude>106.85</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="80">
+		<name>Iran</name>
+		<Capital id="0">
+			<name>Tehran</name>
+			<timeZone>4</timeZone>
+			<Coordinates>
+				<latitude>35.69</latitude>
+				<longitude>51.42</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+	<Country id="101">
+		<name>Russia</name>
+		<Capital id="0">
+			<name>Moscow</name>
+			<timeZone>3</timeZone>
+			<Coordinates>
+				<latitude>55.75</latitude>
+				<longitude>37.62</longitude>
+			</Coordinates>
+		</Capital>
+	</Country>
+</Cities>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Savings>
+	<Place>
+		<cityName>Moscow</cityName>
+		<cityId>0</cityId>
+		<countryId>101</countryId>
+		<Coordinates>
+			<latitude>55.75</latitude>
+			<longitude>37.62</longitude>
+		</Coordinates>
+		<timeZone>3</timeZone>
+	</Place>
+</Savings>
